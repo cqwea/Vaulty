@@ -22,4 +22,6 @@ A small money tracker for money savers which fetches the current rates and you t
 
 ## PCB
 <img width="1800" height="1169" alt="Screenshot 2026-10-09 at 22 39 45" src="https://github.com/user-attachments/assets/51d4bea8-c1f8-43ef-8ff6-820ff3689c13" />
+## Aİ
+NOPE
 
