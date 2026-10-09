@@ -1,3 +1,11 @@
+---
+title: "Vaulty"
+github: "https://github.com/cqwea/Vaulty/tree/main"
+description: "A small money tracker for money savers which fetches the current rates and you type in your bought goods and title keep track of it and show you a portfolio that'll motivate you"
+created_at: "2026-10-09"
+total_time: "4h 30m"
+---
+
 ﻿---
 title: "Vaulty"
 github: ""
@@ -7,6 +15,7 @@ total_time: "3h 54m"
 ---
 
 # October 9, 2026: set up the schematics and made a research
+<!-- fabricate:entry 227 -->
 
 ive made a research on what to use of parts and decided on these : I will use an 1.3 inch st7789 one seeed studio Xiao esp32-s3 and 5 mechanical keyboard switches and ive routed them on the schematics
 
@@ -14,7 +23,8 @@ ive made a research on what to use of parts and decided on these : I will use an
 
 **Total time spent: 1h 6m**
 
-# October 9, 2026: Found a small error on the schematics
+# October 9, 2026 (entry 2): Found a small error on the schematics
+<!-- fabricate:entry 228 -->
 
 ive seen that I forgot to put unused signs and didn't connected the gnd to the gnd on the Xiao pins so ive fixed those and now im continuing to the pcb design
 
@@ -22,7 +32,8 @@ ive seen that I forgot to put unused signs and didn't connected the gnd to the g
 
 **Total time spent: 6m**
 
-# October 9, 2026: routed the pcb
+# October 9, 2026 (entry 3): routed the pcb
+<!-- fabricate:entry 229 -->
 
 İve decided on the alignment and routed the pcb this was by far the easiest pcb designs ive made so Far and my next step is to design a nice case for the Vaulty (and oh yeah ive decided the names gonna be vaulty)
 
@@ -30,7 +41,8 @@ ive seen that I forgot to put unused signs and didn't connected the gnd to the g
 
 **Total time spent: 12m**
 
-# October 9, 2026: Finished
+# October 9, 2026 (entry 4): Finished
+<!-- fabricate:entry 233 -->
 
 i made the case and the assembly its an open case design case and makes the insides of the device visible which is what I love long story short my device is complete
 
@@ -41,3 +53,13 @@ i made the case and the assembly its an open case design case and makes the insi
 
 **Total time spent: 2h 30m**
 
+# October 9, 2026 (entry 5): Set up the GitHub repo
+<!-- fabricate:entry 236 -->
+
+İve set up the GitHub repo and everything is organized and ready to submit the design Vaulty is officially complete yippie
+
+https://github.com/cqwea/Vaulty/tree/main
+
+![](https://fabricate.hackclub-assets.com/3e16f2ac2c30b5fd316bcb2f58ff86f269f4d4fb9405623903e6f38b4fbc990f/image-png/Screenshot%202026-10-09%20at%2022.42.49.png)
+
+**Total time spent: 36m**
