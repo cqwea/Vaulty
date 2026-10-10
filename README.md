@@ -23,6 +23,16 @@ A small money tracker for money savers which fetches the current rates and you t
 
 ## PCB
 <img width="1800" height="1169" alt="Screenshot 2026-10-09 at 22 39 45" src="https://github.com/user-attachments/assets/51d4bea8-c1f8-43ef-8ff6-820ff3689c13" />
+
+## Renders
+
+![Uploading Screenshot 2026-10-10 at 11.59.33.png…]()
+<img width="1800" height="1169" alt="Screenshot 2026-10-10 at 11 59 23" src="https://github.com/user-attachments/assets/f955d806-3447-419b-aca2-16da5b2349e6" />
+<img width="1800" height="1169" alt="Screenshot 2026-10-10 at 11 59 00" src="https://github.com/user-attachments/assets/1a27f765-8b18-4366-9a32-872f3db86dcc" />
+<img width="1800" height="1169" alt="Screenshot 2026-10-10 at 11 58 18" src="https://github.com/user-attachments/assets/0d17e3e9-de5e-45a1-8419-a71fd3a5608b" />
+<img width="1800" height="1169" alt="Screenshot 2026-10-10 at 11 58 11" src="https://github.com/user-attachments/assets/21f4aa29-5953-4dcc-b5c9-327860161176" />
+
+
 ## Aİ
 NOPE
 
