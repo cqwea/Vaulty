@@ -10,10 +10,11 @@ A small money tracker for money savers which fetches the current rates and you t
 ## Assembly
 
 
-<img width="3600" height="2338" alt="Screenshot 2026-10-09 at 22 07 52" src="https://github.com/user-attachments/assets/7cab778e-84d0-499f-a0b9-d9012aab65cb" />
+<img width="1800" height="1169" alt="Screenshot 2026-10-10 at 11 45 00" src="https://github.com/user-attachments/assets/f57df5d8-dc68-462f-b61d-eeb7bf225321" />
+
 
 ## Case
-<img width="1800" height="1169" alt="Screenshot 2026-10-09 at 22 07 37" src="https://github.com/user-attachments/assets/08d99ea7-f95c-4d13-b06a-2b80a1e43190" />
+<img width="1800" height="1169" alt="Screenshot 2026-10-10 at 11 45 23" src="https://github.com/user-attachments/assets/5da0ff01-65c0-4003-886c-828609f0a48f" />
 
 
 ## Schematics
