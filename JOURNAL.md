@@ -3,16 +3,9 @@ title: "Vaulty"
 github: "https://github.com/cqwea/Vaulty/tree/main"
 description: "A small money tracker for money savers which fetches the current rates and you type in your bought goods and title keep track of it and show you a portfolio that'll motivate you"
 created_at: "2026-10-09"
-total_time: "4h 30m"
+total_time: "8h 30m"
 ---
 
-﻿---
-title: "Vaulty"
-github: ""
-description: "A small money tracker for money savers which fetches the current rates and you type in your bought goods and title keep track of it and show you a portfolio that'll motivate you"
-created_at: "2026-10-09"
-total_time: "3h 54m"
----
 
 # October 9, 2026: set up the schematics and made a research
 <!-- fabricate:entry 227 -->
@@ -63,3 +56,13 @@ https://github.com/cqwea/Vaulty/tree/main
 ![](https://fabricate.hackclub-assets.com/3e16f2ac2c30b5fd316bcb2f58ff86f269f4d4fb9405623903e6f38b4fbc990f/image-png/Screenshot%202026-10-09%20at%2022.42.49.png)
 
 **Total time spent: 36m**
+
+# October 16, 2026: İ polished my design even more!
+<!-- fabricate:entry 531 -->
+
+first I rounded my corners and made the case pretty dang nice! Second I made the rendered images rendered (not a screenshot) and uploaded them to the repo!
+
+![](https://fabricate.hackclub-assets.com/5e48586a6f463f82b800528e0c1b49e3733b4838e20b6612d484482867d9a713/image-png/676120212-dfe4449a-2b0c-4218-bc82-177b333f7a94.png)
+![](https://fabricate.hackclub-assets.com/e8c4c8b8c7508b1337187a28c364dcdbc5378531532d437b527fab1c4767dce5/image-png/676120303-ce107492-fb94-4e16-948a-84a902586d86.png)
+
+**Total time spent: 4h**
