@@ -6,7 +6,6 @@ created_at: "2026-10-09"
 total_time: "8h 30m"
 ---
 
-
 # October 9, 2026: set up the schematics and made a research
 <!-- fabricate:entry 227 -->
 
